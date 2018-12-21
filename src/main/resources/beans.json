@@ -1,0 +1,6 @@
+[
+  {
+    "name" : "User",
+    "path" : "com.yolo.mongoorm.User"
+  }
+]
